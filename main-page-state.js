@@ -47,7 +47,7 @@ const data = {
       articles: [38, 32] // Вітальды
     }
   ],
-  entities: {
+  data: {
     articles: [3, 5, 6, 7, 10, 18, 32, 38], // + always 3 latest
     tags: [1, 4, 5, 20, 21, 22],
     brands: [2],
