@@ -9,7 +9,7 @@ const data = {
       type: "diary" // Караткевіч
     },
     {
-      type: "latest",
+      type: "latestArticles",
       articles: [
         { id: 3, frozen: true }, // Джойс
         { id: null, frozen: false } // Літва!
@@ -17,7 +17,7 @@ const data = {
     },
     {
       type: "tagsByTopic",
-      topic: 4, // persons
+      topic: 4, // personalities
       tags: [1, 4, 5], // Боўі / Колас / Баршчэўскі
       style: "1-2"
     },
